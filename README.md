@@ -70,6 +70,29 @@ I am a **Senior Software Engineer** with **6 years** of experience shipping full
 
 ---
 
+## ✦ Artifact 1 — AI/ML Evolution Timeline
+
+*A researched timeline tracing AI from its theoretical origins to the current generative AI era, built to show how infrastructure — not just ideas — drives progress in this field.*
+
+**Key milestones:**
+
+| Era | Milestone | Significance |
+| :--- | :--- | :--- |
+| 1950 | Turing proposes the Turing Test | Founding question of the field |
+| 1956 | Dartmouth Conference | "Artificial Intelligence" formally named |
+| 1974–1980 | First AI Winter | Overpromised rule-based systems lose funding |
+| 1987–1993 | Second AI Winter | Expert systems prove too rigid/costly to scale |
+| 1997 | Deep Blue beats Kasparov | First major symbolic AI win over a human champion |
+| 2012 | AlexNet wins ImageNet | GPUs unlock deep learning at scale — the real inflection point |
+| 2017 | Transformer architecture published | Becomes the backbone of GPT, Claude, and modern LLMs |
+| 2022+ | Generative AI goes mainstream | Tools like ChatGPT reach general consumers |
+
+**Takeaway:** AI's biggest leaps have consistently come from infrastructure catching up to existing ideas — GPUs enabling neural nets that had existed for years, cloud compute enabling today's LLMs. This is the lens I bring to my own AI/ML work: I build with an eye toward what the current infrastructure (Claude API, MCP tool-calling, RAG pipelines) now makes newly possible, not just what's theoretically elegant.
+
+*Sources: Our World in Data, IEEE Computer Society.*
+
+---
+
 ## ✦ Featured Projects
 
 <details>
