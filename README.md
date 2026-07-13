@@ -72,7 +72,20 @@ I am a **Senior Software Engineer** with **6 years** of experience shipping full
 
 ## ✦ Artifact 1 — AI/ML Evolution Timeline
 
-*A researched timeline tracing AI from its theoretical origins to the current generative AI era, built to show how infrastructure — not just ideas — drives progress in this field.*
+### Title
+**The Infrastructure Behind Intelligence: An AI/ML Evolution Timeline**
+
+### Introduction
+As I complete my MS in AI & Data Analytics and continue building production AI/ML systems, I wanted to ground my work in a clear understanding of how the field actually got here. This artifact is a researched timeline tracing AI from its theoretical origins in the 1950s to the current generative AI era.
+
+### Description
+The timeline maps AI's evolution across five phases: its founding (Turing Test, Dartmouth Conference), two "AI winters" where progress stalled, the return to steady progress (Deep Blue), the deep learning inflection point (AlexNet, 2012), and the current Transformer-driven generative AI boom. Rather than a straight line of progress, the research shows a field that stalled twice and then accelerated sharply once specific infrastructure became available.
+
+### Objective
+To identify the actual drivers of AI progress — separating moments where new *ideas* mattered from moments where new *infrastructure* (compute, data, hardware) unlocked ideas that already existed — and to apply that lens to how I evaluate and build AI/ML systems today.
+
+### Process
+I researched primary milestones across academic and industry sources, cross-referenced dates and claims across multiple sources, and organized findings chronologically to identify inflection points. I paid particular attention to *why* each AI winter ended and why 2012 (AlexNet) marked a turning point rather than an earlier or later date — the answer being that Nvidia's gaming GPUs, originally built for an unrelated purpose, turned out to be well-suited to training neural networks that had existed in theory for years.
 
 **Key milestones:**
 
@@ -87,9 +100,17 @@ I am a **Senior Software Engineer** with **6 years** of experience shipping full
 | 2017 | Transformer architecture published | Becomes the backbone of GPT, Claude, and modern LLMs |
 | 2022+ | Generative AI goes mainstream | Tools like ChatGPT reach general consumers |
 
-**Takeaway:** AI's biggest leaps have consistently come from infrastructure catching up to existing ideas — GPUs enabling neural nets that had existed for years, cloud compute enabling today's LLMs. This is the lens I bring to my own AI/ML work: I build with an eye toward what the current infrastructure (Claude API, MCP tool-calling, RAG pipelines) now makes newly possible, not just what's theoretically elegant.
+### Tools and Technologies Used
+Research and synthesis (Our World in Data, IEEE Computer Society), timeline visualization, and comparative historical analysis.
 
-*Sources: Our World in Data, IEEE Computer Society.*
+### Value Proposition
+
+**Unique Value:** Most engineers can name AI milestones; fewer can articulate *why* progress stalled twice and then compounded rapidly. This artifact demonstrates that I don't just use AI/ML tools — I understand the structural conditions that make them possible, which shapes how I scope and build AI systems.
+
+**Relevance:** For a hiring manager evaluating AI/ML or software engineering candidates, this signals a builder who thinks about infrastructure and timing, not just algorithms — directly relevant to my applied work with LLM APIs, RAG pipelines, and tool-calling agents, where the same pattern holds: the ideas are often not new, but the infrastructure to run them well finally is.
+
+### References
+Our World in Data; IEEE Computer Society.
 
 ---
 
