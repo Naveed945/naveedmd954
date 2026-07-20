@@ -113,6 +113,35 @@ Research and synthesis (Our World in Data, IEEE Computer Society), timeline visu
 Our World in Data; IEEE Computer Society.
 
 ---
+## ✦ Artifact 2 — Machine Learning vs. Deep Learning Analysis
+
+**[🔗 View Full Artifact 2: ML vs. DL Real-World Application Analysis](./AArtifact2/ML_vs_DL.md)** *(Note: Update this path if your folder is named differently)*
+
+### Title
+**Machine Learning vs. Deep Learning: Real-World Application Analysis**
+
+### Introduction
+A comprehensive comparative analysis demonstrating a critical understanding of when and why organizations choose different artificial intelligence approaches to solve specific problems. Rather than treating ML and DL as abstract concepts, this artifact connects theoretical knowledge to actual industry decisions made by leading technology companies.
+
+### Description
+This analysis examines two contrasting real-world implementations: 
+1. **Machine Learning:** Customer churn prediction in telecommunications (Verizon, AT&T) using Support Vector Machines (SVM). 
+2. **Deep Learning:** Image recognition in autonomous vehicles (Tesla, Waymo) using Convolutional Neural Networks (CNNs). 
+
+It evaluates the technical requirements, data characteristics, and business trade-offs for each, explaining not only why a specific approach works, but why the alternative would fail.
+
+### Objective
+To move beyond algorithm memorization and develop the ability to evaluate, compare, and recommend appropriate AI/ML solutions for varying business scenarios based on data volume, explainability needs, and computational constraints.
+
+### Key Takeaways
+* **Context-Dependent Selection:** Deep Learning's power is wasted on simple, structured data where traditional ML excels (e.g., customer churn). 
+* **Business Constraints:** Explicit feature engineering in ML provides necessary explainability for business decisions, whereas DL's "black box" is acceptable for safety-critical, high-complexity tasks like autonomous driving.
+* **Systems Thinking:** Technology selection is fundamentally about solving business problems within organizational and computing constraints, rather than just showcasing technical sophistication.
+
+### Value Proposition
+This artifact highlights my ability to act as an architectural decision-maker. It demonstrates technical analysis, system design thinking, and the critical communication skills required to justify complex AI/ML infrastructure choices to both technical and non-technical stakeholders.
+
+---
 
 ## ✦ Featured Projects
 
