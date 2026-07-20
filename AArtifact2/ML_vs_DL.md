@@ -8,8 +8,6 @@ This artifact presents a comprehensive comparative analysis of Machine Learning 
 
 ## Objective
 
-**Why was this artifact created?**
-
 The primary objective was to move beyond memorizing algorithm definitions and instead develop the ability to evaluate, compare, and recommend appropriate AI/ML solutions for different business scenarios. Specific goals included:
 
 - Understand the fundamental differences between Machine Learning and Deep Learning
@@ -43,8 +41,6 @@ The analysis goes beyond simply naming these examples—it explains **why** each
 ---
 
 ## Process
-
-**How was this artifact created?**
 
 The creation process followed a systematic, research-driven methodology:
 
