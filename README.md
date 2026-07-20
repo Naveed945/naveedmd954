@@ -115,8 +115,7 @@ Our World in Data; IEEE Computer Society.
 ---
 ## ✦ Artifact 2 — Machine Learning vs. Deep Learning Analysis
 
-**[🔗 View Full Artifact 2: ML vs. DL Real-World Application Analysis](./AArtifact2/ML_vs_DL.md)** *(Note: Update this path if your folder is named differently)*
-
+**[🔗 View Full Artifact 2: ML vs. DL Real-World Application Analysis](./AArtifact2/ML_vs_DL.md)** 
 ### Title
 **Machine Learning vs. Deep Learning: Real-World Application Analysis**
 
