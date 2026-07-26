@@ -67,7 +67,7 @@ Selected topics covered in this assessment:
 | Interpretability | Why deep learning models are often considered "black boxes" |
 | Feature extraction | A key differentiator between deep learning and traditional ML |
 
-I scored well across all 15 questions, reflecting a solid grasp of both the technical vocabulary and the conceptual "why" behind how these models function — the same conceptual foundation that made the plain-language explanation above possible.
+I scored 30/30 (100%) on this assessment, reflecting a solid grasp of both the technical vocabulary and the conceptual "why" behind how these models function — the same conceptual foundation that made the plain-language explanation above possible.
 
 ---
 
