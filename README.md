@@ -141,6 +141,12 @@ To move beyond algorithm memorization and develop the ability to evaluate, compa
 This artifact highlights my ability to act as an architectural decision-maker. It demonstrates technical analysis, system design thinking, and the critical communication skills required to justify complex AI/ML infrastructure choices to both technical and non-technical stakeholders.
 
 ---
+### Artifact 3: Explaining Neural Networks in Plain Language
+[View Artifact →](artifacts/artifact-3-neural-networks.md)
+
+Translates the mechanics of neural networks — neurons, layers, and the training loop — into a plain-language explanation using an everyday analogy, paired with a 15-question deep learning knowledge check (scored 30/30). Demonstrates both technical understanding of AI/ML fundamentals and the ability to communicate that understanding clearly to a non-technical audience.
+
+---
 
 ## ✦ Featured Projects
 
