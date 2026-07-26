@@ -69,8 +69,8 @@ I am a **Senior Software Engineer** with **6 years** of experience shipping full
 | **Data Pipelines** | Intermediate | NumPy, Pandas, iterative cleaning, and feature-extraction methodologies. |
 
 ---
-
-## ✦ Artifact 1 — AI/ML Evolution Timeline
+## ✦ Artifacts
+###  Artifact 1 — AI/ML Evolution Timeline
 
 ### Title
 **The Infrastructure Behind Intelligence: An AI/ML Evolution Timeline**
@@ -113,7 +113,7 @@ Research and synthesis (Our World in Data, IEEE Computer Society), timeline visu
 Our World in Data; IEEE Computer Society.
 
 ---
-## ✦ Artifact 2 — Machine Learning vs. Deep Learning Analysis
+### Artifact 2 — Machine Learning vs. Deep Learning Analysis
 
 **[🔗 View Full Artifact 2: ML vs. DL Real-World Application Analysis](./AArtifact2/ML_vs_DL.md)** 
 ### Title
@@ -141,7 +141,7 @@ To move beyond algorithm memorization and develop the ability to evaluate, compa
 This artifact highlights my ability to act as an architectural decision-maker. It demonstrates technical analysis, system design thinking, and the critical communication skills required to justify complex AI/ML infrastructure choices to both technical and non-technical stakeholders.
 
 ---
-## + Artifact 3: Explaining Neural Networks in Plain Language
+###  Artifact 3: Explaining Neural Networks in Plain Language
 [View Artifact →](Artifact3/artifact-3-neural-networks.md)
 
 Translates the mechanics of neural networks — neurons, layers, and the training loop — into a plain-language explanation using an everyday analogy, paired with a 15-question deep learning knowledge check (scored 30/30). Demonstrates both technical understanding of AI/ML fundamentals and the ability to communicate that understanding clearly to a non-technical audience.
