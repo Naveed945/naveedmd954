@@ -71,20 +71,4 @@ I scored well across all 15 questions, reflecting a solid grasp of both the tech
 
 ---
 
-## Reflection
-
-**Customization for the Audience**
-
-My original discussion post was written for classmates who already had some background in AI/ML, so I could reference terms like "backpropagation" without much setup. For this portfolio, my intended audience is broader — potentially a hiring manager, recruiter, or client who may not have a technical background at all. To account for that, I kept the house price analogy front and center rather than treating it as a warm-up before the "real" content, and I moved technical vocabulary later in the explanation, only after the underlying concept was already clear. I also added the comparison table summarizing the quiz topics, since a reviewer skimming a portfolio is more likely to scan a table than read dense paragraphs of quiz content. Framing the two pieces together, rather than as separate, disconnected artifacts, was itself a customization decision: it tells a reviewer a complete story (technical competence plus communication skill) instead of leaving them to infer the connection.
-
-**Lessons Learned**
-
-Revising this artifact for a portfolio audience taught me that explaining something simply is a different skill from understanding it. I understood the mechanics of neural networks well enough to do well on the quiz, but figuring out how to represent that understanding without jargon took more effort than I expected. I also learned that a portfolio artifact often needs restructuring, not just repackaging. My original discussion post worked fine as a forum reply, but it wasn't built to stand alone as a portfolio piece. Adding a clear objective, process, and value proposition upfront forced me to articulate why this artifact matters, something I hadn't needed to do for the original assignment.
-
-**Feedback and Revisions**
-
-Peer replies to my original discussion post responded positively to the house price analogy and the sensor data connection, which confirmed that the plain-language approach was landing the way I intended. That feedback is part of why I kept the analogy as the centerpiece of the portfolio version rather than trimming it down. I also revised the artifact after reviewing the portfolio rubric, which emphasizes tailoring content to different audiences; that pushed me to add the explicit reflection on audience customization above, since my first draft assumed the reasoning behind my choices would be obvious to a reviewer without being spelled out.
-
----
-
 *[← Back to Portfolio Home](../README.md)*
